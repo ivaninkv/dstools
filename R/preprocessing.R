@@ -146,4 +146,3 @@ ds_CheckLibrary <- function() {
   if (!'Matrix' %in% inst.pkg) stop('Install package Matrix!')
 
 }
-
